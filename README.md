@@ -1,2 +1,2 @@
-# geiweb-demo1
+# geoweb-demo1
 Demo for geoweb block 3
